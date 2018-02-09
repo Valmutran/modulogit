@@ -1,0 +1,4 @@
+*.sql
+*.txt
+
+Ignorar todos os arquivos sql e txt [*.sql e *.txt]
